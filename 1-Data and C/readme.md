@@ -11,7 +11,7 @@ You will learn about the following in this chapter:
 * How to use the `printf()` and `scanf()` functions to read and write values of differents types. 
 
 
-### Bits, Bytes and Words
+## Bits, Bytes and Words
 
 8-bit words can represent integers from 0 to 255 (2⁸-1)
 

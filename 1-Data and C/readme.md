@@ -15,7 +15,9 @@ You will learn about the following in this chapter:
 
 8-bit words can represent integers from 0 to 255 (2⁸-1)
 
- 8-bits | 0xFF | 255
-16-bits | 0xFFFF | 65,535
-32-bits | 0xFFFFFFFF | 4,294,967,295
-64-bits | 0xFFFFFFFFFFFFFFFF | 18,446,744,073,709,551,615
+| Word size | Max hexadecimal | Max decimal |
+|--------|------|----|
+| 8-bits | 0xFF | 255
+|16-bits | 0xFFFF | 65,535
+|32-bits | 0xFFFFFFFF | 4,294,967,295
+|64-bits | 0xFFFFFFFFFFFFFFFF | 18,446,744,073,709,551,615

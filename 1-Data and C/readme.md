@@ -24,9 +24,9 @@ You will learn about the following in this chapter:
 
 ## Other Integer types
 
-* `short int`: signed type (2 Bytes);
-* `long int`: signed type (8 Bytes);
-* `long long int`: signed type (8 Bytes);
-* `unsigned int`: unsigned (4 Bytes);
+* `short int`: signed type (2 Bytes or 16 bits);
+* `long int`: signed type (8 Bytes or 64 bits);
+* `long long int`: signed type (8 Bytes or 64 bits);
+* `unsigned int`: unsigned (4 Bytes or 32 bits);
 * `signed` keyword can be used to explicit.
 

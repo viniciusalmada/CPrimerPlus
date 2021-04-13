@@ -21,3 +21,12 @@ You will learn about the following in this chapter:
 |16-bits | 0xFFFF | 65,535
 |32-bits | 0xFFFFFFFF | 4,294,967,295
 |64-bits | 0xFFFFFFFFFFFFFFFF | 18,446,744,073,709,551,615
+
+## Other Integer types
+
+* `short int`: signed type (2 Bytes);
+* `long int`: signed type (8 Bytes);
+* `long long int`: signed type (8 Bytes);
+* `unsigned int`: unsigned (4 Bytes);
+* `signed` keyword can be used to explicit.
+

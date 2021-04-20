@@ -9,3 +9,11 @@ int main(void) {
 
 	return 0;
 }
+
+/*
+ * Output:
+ *
+ * dec = 100; oct = 144; hex = 64
+ * dec = 100; oct = 0144; hex = 0x64
+ */
+

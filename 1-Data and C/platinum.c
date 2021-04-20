@@ -18,3 +18,15 @@ int main(void) {
 
 	return 0;
 }
+
+/*
+ * Output:
+ *
+ * Are you worth your weight in platinum?
+ * Let's check it out.
+ * Please enter your weight in kg: 70
+ * Your weight in platinum is worth R$ 15368.92.
+ * You are easily worth that! If platinum prices drop,
+ * eat more to maintain your value.
+ */
+

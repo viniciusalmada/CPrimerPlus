@@ -9,3 +9,12 @@ int main(void) {
 	return 0;
 }
 
+/* 
+ * Output:
+ *
+ * Size of short int: 2
+ * Size of long int: 8
+ * Size of long long int: 8
+ * Size of unsigned int: 4
+ */
+

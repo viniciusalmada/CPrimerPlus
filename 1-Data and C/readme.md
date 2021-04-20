@@ -30,3 +30,7 @@ You will learn about the following in this chapter:
 * `unsigned int`: unsigned (4 Bytes or 32 bits);
 * `signed` keyword can be used to explicit.
 
+> Integer Overflow
+> If an unsigned type reaches its maximum, it starts from beginning.
+> For signed types, it goes to minimum (negative).
+> There is no exception or notification to inform an overflow.

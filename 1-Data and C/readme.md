@@ -80,4 +80,13 @@ The way of defining these characters is using the so called _escape sequences_:
 | `\0oo` | Octal value |
 | `\xhh` | Hexadecimal value |
 
+### Type `_Bool` type
+
+Used to represent Boolean values. Was introduced in C99.
+
+`_Bool` type only requires 1 bit of memory.
+
+## Portable Types: `stdint.h` and `inttypes.h`
+
+
 

@@ -34,3 +34,11 @@ You will learn about the following in this chapter:
 > If an unsigned type reaches its maximum, it starts from beginning.
 > For signed types, it goes to minimum (negative).
 > There is no exception or notification to inform an overflow.
+
+To explicitly set a constant to `long` type, it can be used 'L' or 'l' suffix on the number.
+
+Like `1000L`, `020L` (octal) or `0x10L` (hexa).
+
+Similarly, the `long long` type and `unsigned long long` also can be specified with `LL` and `ULL` suffixes, respectively.
+
+

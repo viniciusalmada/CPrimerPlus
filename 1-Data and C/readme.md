@@ -41,4 +41,43 @@ Like `1000L`, `020L` (octal) or `0x10L` (hexa).
 
 Similarly, the `long long` type and `unsigned long long` also can be specified with `LL` and `ULL` suffixes, respectively.
 
+### Type `char`
+
+An integer type to store characters code, tipically it is 8-bit size.
+
+The characters are symbols defined in ASCII table.
+
+A `char` variable is declared attributing a single character between single quotes '.
+
+```c
+char grade = 'A';
+```
+Or can be used numeric representation:
+
+```c
+char grade = 65;
+```
+
+#### Nonprinting characters
+
+There are a collection of special characters that is used to format and better visualization of characters, like beeps, tabs, backspace, etc.
+
+The way of defining these characters is using the so called _escape sequences_:
+
+| Sequence | Meaning |
+|----------|---------|
+| `\a` | Alert (ANSI C) |
+| `\b` | Backspace |
+| `\f` | Form feed |
+| `\n` | Newline |
+| `\r` | Carriage return |
+| `\t` | Horizontal tab |
+| `\v` | Vertical tab |
+| `\\` | Backslash |
+| `\'` | Single quote |
+| `\"` | Double quotes |
+| `\?` | Question mark |
+| `\0oo` | Octal value |
+| `\xhh` | Hexadecimal value |
+
 
